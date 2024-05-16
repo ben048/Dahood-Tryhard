@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/mezzopera/Omen-Hub/main/omen_hub.lua%22))()
+wait (1)
 while true do
     local character = game.Players.LocalPlayer.Character
     character.Animate.walk.WalkAnim.AnimationId = "http://www.roblox.com/asset/?id=616168032"
